@@ -1,0 +1,8 @@
+{
+  "package": {
+    "prestart-cli": {
+      "url": "github.com/akasia-dev/prestart-cli.git",
+      "branch": "main"
+    }
+  }
+}

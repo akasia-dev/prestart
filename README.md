@@ -1,2 +1,2 @@
 # prestart
-🌸 Prevents forget to run "npm start"
+🌸 Prevents forget to run "npm install"

@@ -1,0 +1,4 @@
+[submodule "module/prestart-cli"]
+	path = module/prestart-cli
+	url = https://github.com/akasia-dev/prestart-cli.git
+	branch = main
