@@ -2,3 +2,7 @@
 	path = module/prestart-cli
 	url = https://github.com/akasia-dev/prestart-cli.git
 	branch = main
+[submodule "release/prestart-dist"]
+	path = release/prestart-dist
+	url = https://github.com/akasia-dev/prestart-dist.git
+	branch = main
