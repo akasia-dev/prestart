@@ -5,7 +5,6 @@
     "start": "polyger"
   },
   "devDependencies": {
-    "polyger": "^0.4.8",
-    "ts-node": "^10.3.0"
+    "polyger": "^0.4.10"
   }
 }
